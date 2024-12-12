@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876209393650",
+    "project_id": "gymappshubham",
+    "storage_bucket": "gymappshubham.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876209393650:android:d3877b83849383cdcca56b",
+        "android_client_info": {
+          "package_name": "com.example.gymappshubham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0MIbU6jYtTNscJ0rYVQJSF43hF7I7Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876209393650:android:0bb21e09ba6809b5cca56b",
+        "android_client_info": {
+          "package_name": "com.snaps.gymappshubham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0MIbU6jYtTNscJ0rYVQJSF43hF7I7Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
